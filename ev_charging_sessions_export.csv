@@ -1,0 +1,2 @@
+Session_ID,EV_ID,Vehicle_Type,Start_Battery_pct,Target_Battery_pct,End_Battery_pct,Temperature_C,Alignment_Status,Charging_Time_min,Energy_Consumed_kWh,Charging_Efficiency_pct,Energy_Source,Status,Session_Timestamp
+1,EV-2W-901,2-Wheeler,25,85,85,31.0,Good,38.8,2.117,90.68,Solar + Grid,COMPLETED,2026-10-11 18:21:19
